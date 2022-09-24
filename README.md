@@ -1,6 +1,10 @@
-# Getting Started with Create React App
+# Install dependencies: `npm install axios styled-components react-router-dom`
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+- axios
+- styled-components
+- react-router-dom
+
+# Getting Started with Create React App
 
 ## Available Scripts
 
