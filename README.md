@@ -1,5 +1,5 @@
-1. Create two folders as public and server
-2. Cd to public and Create react app - `npx create-react-app chat-app`
+1. Create two folders named public and server
+2. Change directory(cd) to public and Create react app - `npx create-react-app chat-app`
 3. Install Dependencies: `npm i express mongoose nodemon socket.io bcrypt cors dotenv`
 4. Inside server Create new file index.js
 5. In package.json write start script for nodemon: `"start": "nodemon index.js"`
